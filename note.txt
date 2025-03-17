@@ -1,0 +1,9 @@
+1. 本地環境:
+a. 翻譯器: Python 3.x
+b. 輔助工具: Pycharm/VSCode
+Anaconda(X)
+
+標準的python檔案: xxxx.py
+我們開發一個工具(基於python): jupyter notebook
+notebook檔案: xxx.ipynb
+colab是一個線上版的jupyter notebook
